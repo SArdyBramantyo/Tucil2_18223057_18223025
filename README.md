@@ -60,5 +60,6 @@ Output akan ditulis ke sebuah .obj file baru dengan format: <namaFile>-voxelized
 | Name | NIM | Kelas |
 |------|------|------|
 | Stanislaus Ardy Bramantyo | 18223057 | K01 |
+| Muhammad Azzam Robbani | 18223025 | K01 |
 
 ---
